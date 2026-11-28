@@ -1,0 +1,1367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//raspisanie//herzen//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ПО-Юр · Расписание
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9a7da83604f007774f0c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261029T094000
+DTEND;TZID=Europe/Moscow:20261029T111000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ccc7479551ea4edc6d@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261029T112000
+DTEND;TZID=Europe/Moscow:20261029T125000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:a673578e588e2edff8f1@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261029T133000
+DTEND;TZID=Europe/Moscow:20261029T150000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:49693a3ca0a2180ca904@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261031T112000
+DTEND;TZID=Europe/Moscow:20261031T125000
+SUMMARY:Административное право (Лекция)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:7b7ad826bc29cd9775c3@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261031T133000
+DTEND;TZID=Europe/Moscow:20261031T150000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:514802f3eb06168dc2fd@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261031T151000
+DTEND;TZID=Europe/Moscow:20261031T164000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:53e83507f94de3140135@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261031T165000
+DTEND;TZID=Europe/Moscow:20261031T182000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ada52ebe87c4b15ae0@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261102T080000
+DTEND;TZID=Europe/Moscow:20261102T093000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:79138ab14fe71aa58f3f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261102T094000
+DTEND;TZID=Europe/Moscow:20261102T111000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:015a5d4f1641fcbfeb7c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261102T112000
+DTEND;TZID=Europe/Moscow:20261102T125000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Лекция)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:42f53c0f6014fcd2b878@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261102T133000
+DTEND;TZID=Europe/Moscow:20261102T150000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:4a4772367afcaa7bba52@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261103T094000
+DTEND;TZID=Europe/Moscow:20261103T111000
+SUMMARY:Нормативно-правовые основы професс
+ иональной деятельности (Практика)
+LOCATION:корп. 20\, ауд. 110\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:3af1d67e1f0997edf171@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261103T112000
+DTEND;TZID=Europe/Moscow:20261103T125000
+SUMMARY:Нормативно-правовые основы професс
+ иональной деятельности (Практика)
+LOCATION:корп. 20\, ауд. 110\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:7e146f37554573677db9@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261103T133000
+DTEND;TZID=Europe/Moscow:20261103T150000
+SUMMARY:Право социального обеспечения (Лекц
+ ия)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2a8f9bbcd7d6da0c22@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261103T151000
+DTEND;TZID=Europe/Moscow:20261103T164000
+SUMMARY:Право социального обеспечения (Лекц
+ ия)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:0a5dc3fa06d480449dd5@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261105T094000
+DTEND;TZID=Europe/Moscow:20261105T111000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:447d912a885ae57ca937@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261105T112000
+DTEND;TZID=Europe/Moscow:20261105T125000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed81f4a4eae85d8902b@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261105T133000
+DTEND;TZID=Europe/Moscow:20261105T150000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:a104dec3b1a13f1cf77d@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261107T080000
+DTEND;TZID=Europe/Moscow:20261107T093000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:a3af5b3257d627c5ed6b@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261107T094000
+DTEND;TZID=Europe/Moscow:20261107T111000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:12252bdafb22bdd4a7e6@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261107T112000
+DTEND;TZID=Europe/Moscow:20261107T125000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e0f4585d1f53cef780@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261107T133000
+DTEND;TZID=Europe/Moscow:20261107T150000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:2f0071bda653f75becb1@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261109T080000
+DTEND;TZID=Europe/Moscow:20261109T093000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:30d84c752a1fa57c3d0f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261109T094000
+DTEND;TZID=Europe/Moscow:20261109T111000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:b67b70d46d00f6372a5a@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261109T112000
+DTEND;TZID=Europe/Moscow:20261109T125000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:073b4c600a2732e813c8@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261109T133000
+DTEND;TZID=Europe/Moscow:20261109T150000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:8e2f09bf391e8dd49006@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261110T094000
+DTEND;TZID=Europe/Moscow:20261110T111000
+SUMMARY:Нормативно-правовые основы професс
+ иональной деятельности (Практика)
+LOCATION:корп. 20\, ауд. 110\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:3749b1ef76c19931578c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261110T112000
+DTEND;TZID=Europe/Moscow:20261110T125000
+SUMMARY:Нормативно-правовые основы професс
+ иональной деятельности (Практика)
+LOCATION:корп. 20\, ауд. 110\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:a4367831bbf1baf2978f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261110T133000
+DTEND;TZID=Europe/Moscow:20261110T150000
+SUMMARY:Право социального обеспечения (Лекц
+ ия)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:8a06c4160e5dfb14ca47@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261110T151000
+DTEND;TZID=Europe/Moscow:20261110T164000
+SUMMARY:Право социального обеспечения (Лекц
+ ия)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:2f27575ee0c9da356972@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261112T112000
+DTEND;TZID=Europe/Moscow:20261112T125000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:726c6ac4f2edb1dca148@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261112T133000
+DTEND;TZID=Europe/Moscow:20261112T150000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:57823e2b98736177c681@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261114T080000
+DTEND;TZID=Europe/Moscow:20261114T093000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba415d5bbf0dd152e14@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261114T094000
+DTEND;TZID=Europe/Moscow:20261114T111000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0eeb5bdaaccf7950f4@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261114T112000
+DTEND;TZID=Europe/Moscow:20261114T125000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5e497032fa1ac7a556@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261114T133000
+DTEND;TZID=Europe/Moscow:20261114T150000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:b019d723d09984e388f3@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261116T080000
+DTEND;TZID=Europe/Moscow:20261116T093000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:49445029703a900dc76e@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261116T094000
+DTEND;TZID=Europe/Moscow:20261116T111000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:29057f63ce1eac6e37c7@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261116T112000
+DTEND;TZID=Europe/Moscow:20261116T125000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d3e9f47063d6d4ddf8@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261116T133000
+DTEND;TZID=Europe/Moscow:20261116T150000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:5c36f005a057b565d127@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261117T112000
+DTEND;TZID=Europe/Moscow:20261117T125000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:db3c884c86fa34f3d2c0@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261117T133000
+DTEND;TZID=Europe/Moscow:20261117T150000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7e448eb70230fd3051@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261119T112000
+DTEND;TZID=Europe/Moscow:20261119T125000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:cd0112f850d2e8dceef0@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261119T133000
+DTEND;TZID=Europe/Moscow:20261119T150000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:6f84082a8ccff342e67f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261120T080000
+DTEND;TZID=Europe/Moscow:20261120T093000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:cdfd06a371149756b69f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261120T094000
+DTEND;TZID=Europe/Moscow:20261120T111000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:5f97004a1b29cf57ad00@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261120T112000
+DTEND;TZID=Europe/Moscow:20261120T125000
+SUMMARY:Образовательное право (Лекция)
+LOCATION:корп. 20\, ауд. 233\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=31805
+END:VEVENT
+BEGIN:VEVENT
+UID:9461a0ec13613600c8e7@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261120T133000
+DTEND;TZID=Europe/Moscow:20261120T150000
+SUMMARY:Образовательное право (Практика)
+LOCATION:корп. 20\, ауд. 233\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=31805
+END:VEVENT
+BEGIN:VEVENT
+UID:2aabd4407998d44bd507@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261121T080000
+DTEND;TZID=Europe/Moscow:20261121T093000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:453d28e833462e1d6163@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261121T094000
+DTEND;TZID=Europe/Moscow:20261121T111000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:fa310cff19aea5294e06@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261121T112000
+DTEND;TZID=Europe/Moscow:20261121T125000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:12fac88ad02974781de8@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261121T133000
+DTEND;TZID=Europe/Moscow:20261121T150000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:7580c6365332e5bf8def@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261123T080000
+DTEND;TZID=Europe/Moscow:20261123T093000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:d21b2a956b3e43b44203@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261123T094000
+DTEND;TZID=Europe/Moscow:20261123T111000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:22a87543cb22a03cc1c3@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261123T112000
+DTEND;TZID=Europe/Moscow:20261123T125000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:7e01066e0438da93e2df@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261123T133000
+DTEND;TZID=Europe/Moscow:20261123T150000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:934205fab9efdc07bb82@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261124T112000
+DTEND;TZID=Europe/Moscow:20261124T125000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:d2002590756b9bf9d4a6@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261124T133000
+DTEND;TZID=Europe/Moscow:20261124T150000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:83aea66c11ce48f9eec6@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261126T112000
+DTEND;TZID=Europe/Moscow:20261126T125000
+SUMMARY:Общая и социальная психология (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:64813b80c1cd3a48551c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261126T130000
+DTEND;TZID=Europe/Moscow:20261126T150000
+SUMMARY:‼️ Общая и социальная психология (З
+ ачёт (письменно))
+LOCATION:корп. 20\, ауд. 325\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17684
+END:VEVENT
+BEGIN:VEVENT
+UID:f8de0920b6cd64e0e3e8@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261127T080000
+DTEND;TZID=Europe/Moscow:20261127T093000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:2e35cd3e226f3dc75bc8@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261127T094000
+DTEND;TZID=Europe/Moscow:20261127T111000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:f89d69edccff518ca64f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261127T112000
+DTEND;TZID=Europe/Moscow:20261127T125000
+SUMMARY:Образовательное право (Лекция)
+LOCATION:корп. 20\, ауд. 233\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=31805
+END:VEVENT
+BEGIN:VEVENT
+UID:e85c72800236be0eb722@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261127T133000
+DTEND;TZID=Europe/Moscow:20261127T150000
+SUMMARY:Образовательное право (Практика)
+LOCATION:корп. 20\, ауд. 233\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=31805
+END:VEVENT
+BEGIN:VEVENT
+UID:1c407ddbf53eb1637546@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261128T080000
+DTEND;TZID=Europe/Moscow:20261128T093000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:c655954c54e55febd4b1@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261128T094000
+DTEND;TZID=Europe/Moscow:20261128T111000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:c63a3bfa8ee557e17ba3@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261128T112000
+DTEND;TZID=Europe/Moscow:20261128T125000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:7001088311e287e35668@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261128T133000
+DTEND;TZID=Europe/Moscow:20261128T150000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:8b10cac649ab3ae35eba@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261130T080000
+DTEND;TZID=Europe/Moscow:20261130T093000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:17a0147c6b3a75b22645@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261130T094000
+DTEND;TZID=Europe/Moscow:20261130T111000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:94f5cc34caa484e670ee@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261130T112000
+DTEND;TZID=Europe/Moscow:20261130T125000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:19a58e2bf4f0c4293cca@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261130T133000
+DTEND;TZID=Europe/Moscow:20261130T150000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:fd61cf1d3c90d655cafa@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261201T112000
+DTEND;TZID=Europe/Moscow:20261201T125000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:f524d25d390580fdd81b@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261201T133000
+DTEND;TZID=Europe/Moscow:20261201T150000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:2e129288bdb8ecffa7bf@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261204T080000
+DTEND;TZID=Europe/Moscow:20261204T093000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d1a936d619364d0476@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261204T094000
+DTEND;TZID=Europe/Moscow:20261204T111000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:58cf2620d9de02bde2e0@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261204T112000
+DTEND;TZID=Europe/Moscow:20261204T125000
+SUMMARY:Образовательное право (Практика)
+LOCATION:корп. 20\, ауд. 233\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=31805
+END:VEVENT
+BEGIN:VEVENT
+UID:73e30344587f8187971d@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261204T133000
+DTEND;TZID=Europe/Moscow:20261204T150000
+SUMMARY:Образовательное право (Практика)
+LOCATION:корп. 20\, ауд. 233\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=31805
+END:VEVENT
+BEGIN:VEVENT
+UID:d137beb02fe745048784@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261205T080000
+DTEND;TZID=Europe/Moscow:20261205T093000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:ae4602b97bcb2f8a23ee@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261205T094000
+DTEND;TZID=Europe/Moscow:20261205T111000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:afc6ba0cd6e6af671e2c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261205T112000
+DTEND;TZID=Europe/Moscow:20261205T125000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:8dc8e0235832480accd3@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261205T133000
+DTEND;TZID=Europe/Moscow:20261205T150000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:883738a841ae25c75459@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261207T080000
+DTEND;TZID=Europe/Moscow:20261207T093000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:f42b85cac9ae9f8d296a@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261207T094000
+DTEND;TZID=Europe/Moscow:20261207T111000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:f7982ebd1f1454cdec8f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261207T112000
+DTEND;TZID=Europe/Moscow:20261207T125000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd04d4c73fca418089d@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261207T133000
+DTEND;TZID=Europe/Moscow:20261207T150000
+SUMMARY:Профессиональная этика в психолого-
+ педагогической деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:ecef7ae76beb69cc81cd@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261208T112000
+DTEND;TZID=Europe/Moscow:20261208T125000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:1c57112a0b9cac7eb8f4@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261208T133000
+DTEND;TZID=Europe/Moscow:20261208T150000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:cd964725ff6c6ceb88fa@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261211T080000
+DTEND;TZID=Europe/Moscow:20261211T093000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:2dbd208e85d0aa0c9c32@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261211T094000
+DTEND;TZID=Europe/Moscow:20261211T111000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:07cd80731271c2c72e54@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261211T112000
+DTEND;TZID=Europe/Moscow:20261211T125500
+SUMMARY:‼️ Образовательное право (Зачёт (ус
+ тно))
+LOCATION:корп. 20\, ауд. 233\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=31805
+END:VEVENT
+BEGIN:VEVENT
+UID:bec7b13c51d41d11f970@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261212T112000
+DTEND;TZID=Europe/Moscow:20261212T125000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2449442a8faabbb9e5@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261212T133000
+DTEND;TZID=Europe/Moscow:20261212T150000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:dff3dec9b5b99b6a5b73@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261214T080000
+DTEND;TZID=Europe/Moscow:20261214T093000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:0778d2bc1beb7e45f80e@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261214T094000
+DTEND;TZID=Europe/Moscow:20261214T111000
+SUMMARY:Уголовное право (Практика)
+LOCATION:корп. 20\, ауд. 222\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:fee4d8edc74a6d22b6e6@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261214T112000
+DTEND;TZID=Europe/Moscow:20261214T125500
+SUMMARY:‼️ Профессиональная этика в психол
+ ого-педагогической деятельности (Зачёт 
+ (устно))
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:c971437886d34b88f05c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261215T112000
+DTEND;TZID=Europe/Moscow:20261215T125000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:0ab831a0f96096fee154@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261215T133000
+DTEND;TZID=Europe/Moscow:20261215T150000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:0708e8975e3d80328c3c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261218T080000
+DTEND;TZID=Europe/Moscow:20261218T093000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:51f68cf24e1cc5a5e89a@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261218T094000
+DTEND;TZID=Europe/Moscow:20261218T111000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:ca2c859e8f5f4b5a564e@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261218T112000
+DTEND;TZID=Europe/Moscow:20261218T125000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:a882b2a70eb2731b4f88@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261218T133000
+DTEND;TZID=Europe/Moscow:20261218T150000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:5c32fbbbb409130ea13d@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261219T080000
+DTEND;TZID=Europe/Moscow:20261219T093000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:0654fe3b5328bc84f29a@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261219T094000
+DTEND;TZID=Europe/Moscow:20261219T111000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc9a4897c926971d551@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261219T112000
+DTEND;TZID=Europe/Moscow:20261219T125000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:e32869562d4b5b4313ab@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261219T133000
+DTEND;TZID=Europe/Moscow:20261219T150000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:b1774b37e2c530963dec@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261221T094000
+DTEND;TZID=Europe/Moscow:20261221T111000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:c990a86c88b434d78a3d@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261221T112000
+DTEND;TZID=Europe/Moscow:20261221T125500
+SUMMARY:‼️ Право социального обеспечения (
+ Зачёт (устно))
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=17090
+END:VEVENT
+BEGIN:VEVENT
+UID:e065bec92548352eb1da@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261222T094000
+DTEND;TZID=Europe/Moscow:20261222T111000
+SUMMARY:Нормативно-правовые основы професс
+ иональной деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:95044d05716ea5f3e67c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261222T112000
+DTEND;TZID=Europe/Moscow:20261222T125000
+SUMMARY:Нормативно-правовые основы професс
+ иональной деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:5b2b5ce64c9e2f2fe9f0@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261222T130000
+DTEND;TZID=Europe/Moscow:20261222T150000
+SUMMARY:‼️ Факультатив: Профилактика нарко
+ зависимости в молодежной среде (Зачёт (т
+ ест))
+LOCATION:Онлайн\, дистанционно
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=20869
+END:VEVENT
+BEGIN:VEVENT
+UID:a4281fd73ba77b4eec39@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261225T080000
+DTEND;TZID=Europe/Moscow:20261225T093000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b7ca5aeb322e2e332c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261225T094000
+DTEND;TZID=Europe/Moscow:20261225T111000
+SUMMARY:Психология развития человека в обра
+ зовании (Практика)
+LOCATION:корп. 20\, ауд. 324\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:9b92bc28da97406954dc@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261225T112000
+DTEND;TZID=Europe/Moscow:20261225T132000
+SUMMARY:‼️ Психология развития человека в 
+ образовании (Зачёт (письменно))
+LOCATION:корп. 20\, ауд. 229\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=2480
+END:VEVENT
+BEGIN:VEVENT
+UID:20ae667e3f04a78b6d1f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261226T080000
+DTEND;TZID=Europe/Moscow:20261226T093000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:81cb4bc6c18f28777b3e@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261226T094000
+DTEND;TZID=Europe/Moscow:20261226T111000
+SUMMARY:Гражданское право (Практика)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:bd657437ccc77e53351b@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261226T112000
+DTEND;TZID=Europe/Moscow:20261226T125000
+SUMMARY:Административное право (Практика)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:d720c2c9c45251a2b151@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261226T133000
+DTEND;TZID=Europe/Moscow:20261226T174000
+SUMMARY:‼️ Административное право (Зачёт с 
+ оценкой (устно))
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:7e882494d46eeffa5bf1@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261229T094000
+DTEND;TZID=Europe/Moscow:20261229T111000
+SUMMARY:Нормативно-правовые основы професс
+ иональной деятельности (Практика)
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:54a128e03d91e9bbeab3@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20261229T112000
+DTEND;TZID=Europe/Moscow:20261229T132000
+SUMMARY:‼️ Нормативно-правовые основы проф
+ ессиональной деятельности (Зачёт (письм
+ енно))
+LOCATION:корп. 20\, ауд. 328\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=38529
+END:VEVENT
+BEGIN:VEVENT
+UID:41dbc8e8fd8c2a783619@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270109T120000
+DTEND;TZID=Europe/Moscow:20270109T130000
+SUMMARY:Уголовное право (Консультация)
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:d39d467c59c627b266de@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270111T090000
+DTEND;TZID=Europe/Moscow:20270111T151000
+SUMMARY:‼️ Уголовное право (Экзамен (устно))
+LOCATION:корп. 20\, ауд. 236\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2319982e6efd036461@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270115T170000
+DTEND;TZID=Europe/Moscow:20270115T180000
+SUMMARY:Гражданское право (Консультация)
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:acfeee832cc790604784@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270116T110000
+DTEND;TZID=Europe/Moscow:20270116T171000
+SUMMARY:‼️ Гражданское право (Экзамен (устн
+ о))
+LOCATION:корп. 20\, ауд. 111\, наб. реки Мойки\, 48
+DESCRIPTION:Moodle: https://moodle.herzen.spb.ru/course/view.php?id=10663
+END:VEVENT
+BEGIN:VEVENT
+UID:a5349da0d2776599e7ca@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270206T080000
+DTEND;TZID=Europe/Moscow:20270206T093000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:400ec6b27c3136e0e7fc@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270206T094000
+DTEND;TZID=Europe/Moscow:20270206T111000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4cbbd5b24040db1940@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270213T080000
+DTEND;TZID=Europe/Moscow:20270213T093000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:c15a8e34ac67aa72a773@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270213T094000
+DTEND;TZID=Europe/Moscow:20270213T111000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:f1822ee1201ba295cd9c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270220T080000
+DTEND;TZID=Europe/Moscow:20270220T093000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:087903a529bd0a68caf0@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270220T094000
+DTEND;TZID=Europe/Moscow:20270220T111000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae68ed274803f5e3e30@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270227T080000
+DTEND;TZID=Europe/Moscow:20270227T093000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2317b80510b18ade85@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270227T094000
+DTEND;TZID=Europe/Moscow:20270227T111000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:4558e9949629cd35280c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270409T094000
+DTEND;TZID=Europe/Moscow:20270409T111000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:795726aba0f93d623c72@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270409T112000
+DTEND;TZID=Europe/Moscow:20270409T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:d6addc14b003da3b0302@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270416T094000
+DTEND;TZID=Europe/Moscow:20270416T111000
+SUMMARY:Семейное право (Лекция)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:b2793c85102fc989b5dd@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270416T112000
+DTEND;TZID=Europe/Moscow:20270416T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:f685c6adb8ff132ee8e0@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270423T094000
+DTEND;TZID=Europe/Moscow:20270423T111000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:9fca36f84ed808cc290c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270423T112000
+DTEND;TZID=Europe/Moscow:20270423T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:4b015168a22cbda523f8@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270430T094000
+DTEND;TZID=Europe/Moscow:20270430T111000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c9f3b5841e12723b6c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270430T112000
+DTEND;TZID=Europe/Moscow:20270430T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:5de77db9f431b3da596f@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270507T094000
+DTEND;TZID=Europe/Moscow:20270507T111000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:57e740a400905a08bcce@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270507T112000
+DTEND;TZID=Europe/Moscow:20270507T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:07e5dce9fd66ef31f281@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270514T094000
+DTEND;TZID=Europe/Moscow:20270514T111000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:841d6f796313b5fee009@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270514T112000
+DTEND;TZID=Europe/Moscow:20270514T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:5ceb1825bde1d1ea4c09@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270521T094000
+DTEND;TZID=Europe/Moscow:20270521T111000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c3643f01f990bc3a8c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270521T112000
+DTEND;TZID=Europe/Moscow:20270521T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:8989105cd79d73551097@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270528T094000
+DTEND;TZID=Europe/Moscow:20270528T111000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:3682d238e87bf752ca6c@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270528T112000
+DTEND;TZID=Europe/Moscow:20270528T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:6e97a9eda558f8b3a743@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270604T094000
+DTEND;TZID=Europe/Moscow:20270604T111000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+BEGIN:VEVENT
+UID:bc02777072cca4da57d5@raspisanie
+DTSTAMP:20261128T175716Z
+DTSTART;TZID=Europe/Moscow:20270604T112000
+DTEND;TZID=Europe/Moscow:20270604T125000
+SUMMARY:Семейное право (Практика)
+LOCATION:корп. 20\, ауд. 327\, наб. реки Мойки\, 48
+END:VEVENT
+END:VCALENDAR

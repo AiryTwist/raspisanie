@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<title>课程表 · Расписание</title>
+<meta name="theme-color" content="#f5f5f7">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest-zh.json">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="课程表">
+<link rel="preload" href="fonts/inter-cyr.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css?v=244">
+</head>
+<body>
+<aside id="side"></aside>
+<div class="app">
+  <header><div class="top" id="top"></div></header>
+  <main id="main"><div class="loading">…</div></main>
+  <footer id="footer"></footer>
+</div>
+<nav id="nav"></nav>
+<div class="modal" id="modal"><div class="sheet" id="sheet"></div></div>
+<script>
+/* старые встроенные браузеры (Android-приложения, WeChat, телефоны OPPO/Xiaomi): маленькие заплатки и понятное сообщение вместо белого экрана */
+if(!Array.prototype.flatMap){Array.prototype.flatMap=function(f,t){return [].concat.apply([],this.map(f,t));};}
+if(!Array.prototype.flat){Array.prototype.flat=function(){return [].concat.apply([],this);};}
+if(!Object.fromEntries){Object.fromEntries=function(a){var o={};Array.from(a).forEach(function(p){o[p[0]]=p[1];});return o;};}
+window.__appStarted=false;
+setTimeout(function(){ if(window.__appStarted) return; var m=document.getElementById("main"); if(!m) return;
+  var zh=/lang=zh/.test(location.search)||(localStorage.getItem("lang")||"").indexOf("zh")>=0;
+  m.innerHTML='<div class="empty" style="margin:20px">'+(zh?'应用没有加载。请点“重新加载”；如果还不行，请用 Chrome 浏览器打开：':'Приложение не загрузилось. Нажмите «Перезагрузить»; если не поможет — откройте сайт в браузере Chrome:')+'<br><b>airytwist.github.io/raspisanie</b><div style="margin-top:14px"><button class="btn" onclick="location.reload()">'+(zh?'重新加载':'Перезагрузить')+'</button></div></div>'; }, 9000);
+</script>
+<script src="app.js?v=244"></script>
+<script data-goatcounter="https://raspisanie-herzen.goatcounter.com/count" data-goatcounter-settings='{"no_onload":true}' async src="https://gc.zgo.at/count.js"></script>
+</body>
+</html>
